@@ -1,2 +1,2 @@
-include ':bottomnavbar'
+include ':app'
 rootProject.name = "test2"

@@ -1,4 +1,4 @@
-package com.heizi.bottomnavbar;
+package com.heizi.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
